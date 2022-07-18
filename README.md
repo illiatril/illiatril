@@ -1,5 +1,5 @@
 # My website portfolio
-[Skillz](https://illiatril.github.io/skillz/)             |
+[Skillz](https://illiatril.github.io/skillz/)             |[FarmVest](https://illiatril.github.io/FarmVest/)
 :-------------------------:
 [![](./images/2.png)](https://illiatril.github.io/skillz/)
 
